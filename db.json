@@ -2,69 +2,80 @@
   "story": [
     {
       "id": 1,
-      "img": "https://oss.livuvo.com/images/85d7457985004ad99e6d766e2f15c38a.jpg"
+      "img": "https://oss.livuvo.com/images/85d7457985004ad99e6d766e2f15c38a.jpg",
+      "text": "برای عید لوازم آراشیتو تکمیل کن"
     },
     {
       "id": 2,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0c9bf3090971a2c4055891be4ac0631737c15ae8_1702326340.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/0c9bf3090971a2c4055891be4ac0631737c15ae8_1702326340.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "عجب ترکیبی!!!"
     },
     {
       "id": 3,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/56eae2fc20180a9090f509dc045c785bad475cec_1650379709.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/56eae2fc20180a9090f509dc045c785bad475cec_1650379709.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "کوچیک ترین پرچمدار ریزر"
     },
     {
       "id": 4,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/64a140fa52eb98664dd20376d58916d0298bab5f_1659959596.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/64a140fa52eb98664dd20376d58916d0298bab5f_1659959596.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "لپ‌تاپ غیرممکن!"
     },
     {
       "id": 5,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/f0b3cf9798f5a9d4a96dec65dd0ea8bf4470ce96_1695285268.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/f0b3cf9798f5a9d4a96dec65dd0ea8bf4470ce96_1695285268.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "کرم ضدآفتاب ژنوبایوتیک"
     },
     {
       "id": 6,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/b008dca7921f9823707059f996b72370a1479bec_1687459058.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/b008dca7921f9823707059f996b72370a1479bec_1687459058.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "کیفیتش هم مثل ظاهرش خوبه👌🏽"
     },
     {
       "id": 7,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/917a002ac419b465d8a4e06adcb2629d13807cbd_1709969172.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/917a002ac419b465d8a4e06adcb2629d13807cbd_1709969172.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "سه قمقمه تو دل هم😳"
     },
     {
       "id": 8,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/c945e7afc6c344c30a81ef550bc67affb36b8fb8_1645535323.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/c945e7afc6c344c30a81ef550bc67affb36b8fb8_1645535323.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "ایده جا و مکان داره؟"
     },
     {
       "id": 9,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/7d98ba6e219321b9e2a5851aeb1faa6d8d2d0200_1682239918.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/7d98ba6e219321b9e2a5851aeb1faa6d8d2d0200_1682239918.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "چقدر شیک‌🤌🏼"
     },
     {
       "id": 10,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/d9bafb0c51bce812b49b4d5d2d94cda85336f255_1654384043.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "ببین جزیره نخل چیه"
     },
     {
       "id": 11,
-      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/10e5f08735c7a0f79ae72891a02a47a8d4be914e_1659856355.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80"
+      "img": "https://dkstatics-public.digikala.com/digikala-content-x-profile/10e5f08735c7a0f79ae72891a02a47a8d4be914e_1659856355.jpg?x-oss-process=image/resize,m_lfit,h_150,w_150/quality,q_80",
+      "text": "فست شارژ با ارزش خرید بالا"
     }
   ],
   "slider": [
     {
         "id":1,
         "phone": "https://dkstatics-public.digikala.com/digikala-adservice-banners/30800511bda6f7f1a276a68d632cba5b88cf8008_1709150621.jpg?x-oss-process=image/quality,q_95",
-        "dekstop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5610bce7a5837a3811a82cfede1ec6f79689ce22_1709034018.gif?x-oss-process=image"
+        "desktop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/5610bce7a5837a3811a82cfede1ec6f79689ce22_1709034018.gif?x-oss-process=image"
     },
     {
         "id":2,
         "phone": "https://dkstatics-public.digikala.com/digikala-adservice-banners/63a8c6e68d220841bd1fcad8cd3c62c050e249c2_1708517512.gif?x-oss-process=image",
-        "dekstop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a163d2c904a4a1983bc31d9f0977b2d4be309ae2_1708757632.gif?x-oss-process=image"
+        "desktop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/a163d2c904a4a1983bc31d9f0977b2d4be309ae2_1708757632.gif?x-oss-process=image"
     },
     {
         "id":3,
         "phone": "https://dkstatics-public.digikala.com/digikala-adservice-banners/7aade5f3231429f805b812ad6caebabd0de7c9f8_1709034182.jpg?x-oss-process=image/quality,q_95",
-        "dekstop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/eb554ed55439a05b93c4640ab0270d05e569a69c_1709043402.jpg?x-oss-process=image/quality,q_95"
+        "desktop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/eb554ed55439a05b93c4640ab0270d05e569a69c_1709043402.jpg?x-oss-process=image/quality,q_95"
     },
     {
         "id":4,
         "phone": "https://dkstatics-public.digikala.com/digikala-adservice-banners/699642963498e8c0fc9f86898a4d082c64c165ba_1709034112.jpg?x-oss-process=image/quality,q_95",
-        "dekstop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fd6391040b944f17ecc5f8c4b095a5e1816cdfd0_1709034250.jpg?x-oss-process=image/quality,q_95"
+        "desktop": "https://dkstatics-public.digikala.com/digikala-adservice-banners/fd6391040b944f17ecc5f8c4b095a5e1816cdfd0_1709034250.jpg?x-oss-process=image/quality,q_95"
     }
   ]
 }
