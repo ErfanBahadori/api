@@ -205,92 +205,89 @@
         "https://dkstatics-public.digikala.com/digikala-adservice-banners/f870c46c9a145459be5f9ad25420fc07d2b04ca4_1709550012.jpg?x-oss-process=image/quality,q_95",
         "https://dkstatics-public.digikala.com/digikala-adservice-banners/854aed054553325b13a2a784ac468d3be31b7f29_1709549721.jpg?x-oss-process=image/quality,q_95"
       ]
-    },
-    {
-      "id": 3,
-      "img": [
-        "https://dkstatics-public.digikala.com/digikala-adservice-banners/b86edcb0184efca8d35513819555ba9e66d306ec_1709731202.jpg?x-oss-process=image/quality,q_95",
-        "https://dkstatics-public.digikala.com/digikala-adservice-banners/3477064a66520088ee56262fe447240151f0f7cd_1709982125.gif?x-oss-process=image"
-      ]
-    },
-    {
-      "id": 4,
-      "img": [
-        "https://dkstatics-public.digikala.com/digikala-adservice-banners/39daac03f9598eca6788236b3f612b144bdbd0d3_1709730780.jpg?x-oss-process=image/quality,q_95"
-      ]
     }
   ],
   "category": [
-    {
-      "id": 1,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/510816e9ec4cbfad2edbff2763e2059a504e571b_1709022392.png",
-      "text": "موبایل"
-    },
-    {
-      "id": 2,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/ba175c709e3cc22e3fd7c65c7c6a21854d1c3765_1709022399.png",
-      "text": "کالای دیجیتال"
-    },
-    {
-      "id": 3,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/1fad42c6177e71db1a368e258c5bc004d6073a3a_1709022413.png",
-      "text": "مد و پوشاک"
-    },
-    {
-      "id": 4,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/5f3aa7bb8bde7c7433d31025d508ee3afd367773_1709022418.png",
-      "text": "کالاهای سوپرمارکتی"
-    },
-    {
-      "id": 5,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/f1ff29c0399fdbeef7cef44bf6ec897f31287449_1709022424.png",
-      "text": "کتاب، لوازم تحریر و هنر"
-    },
-    {
-      "id": 6,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/dee082825fa27bf216cc8cf2153745062c29e62d_1709022430.png",
-      "text": "اسباب بازی، کودک و نوزاد"
-    },
-    {
-      "id": 7,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/0904ded09b1b4874e30fb92aeb5fd8fb21051eb6_1709026476.png",
-      "text": "لوازم خانگی برقی"
-    },
-    {
-      "id": 8,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/c2957abd1f437415eceb6428c7dce93ef3ee7495_1709022473.png",
-      "text": "زیبایی و سلامت"
-    },
-    {
-      "id": 9,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/f64a3adf6e327bf1b85ce43449740d974eaaf037_1709022480.png",
-      "text": "ورزش و سفر"
-    },
-    {
-      "id": 10,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/5421d413c4f0a943cdc1cca473eb15536b13c98f_1709022487.png",
-      "text": "ورزش و سفر"
-    },
-    {
-      "id": 11,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/5421d413c4f0a943cdc1cca473eb15536b13c98f_1709022487.png",
-      "text": "ابزار آلات و تجهیزات"
-    },
-    {
-      "id": 12,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/ac63c44ab551dc24421aea53b92686a2f72906ff_1709022493.png",
-      "text": "خودرو و موتورسیکلت"
-    },
-    {
-      "id": 13,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/c48ab9fc81e7732a617f90eca608b943d4616ff7_1709022499.png",
-      "text": "محصولات بومی و محلی"
-    },
-    {
-      "id": 14,
-      "img": "https://dkstatics-public.digikala.com/digikala-categories/a25821d184d092f05383e6039738d2cad25bcbb7_1709022511.png",
-      "text": "کارت هدیه"
-    }
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/510816e9ec4cbfad2edbff2763e2059a504e571b_1709022392.png",
+        "text": "موبایل"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/ba175c709e3cc22e3fd7c65c7c6a21854d1c3765_1709022399.png",
+        "text": "کالای دیجیتال"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/1fad42c6177e71db1a368e258c5bc004d6073a3a_1709022413.png",
+        "text": "مد و پوشاک"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/5f3aa7bb8bde7c7433d31025d508ee3afd367773_1709022418.png",
+        "text": "کالاهای سوپرمارکتی"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/f1ff29c0399fdbeef7cef44bf6ec897f31287449_1709022424.png",
+        "text": "کتاب، لوازم تحریر و هنر"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/dee082825fa27bf216cc8cf2153745062c29e62d_1709022430.png",
+        "text": "اسباب بازی، کودک و نوزاد"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/0904ded09b1b4874e30fb92aeb5fd8fb21051eb6_1709026476.png",
+        "text": "لوازم خانگی برقی"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/c2957abd1f437415eceb6428c7dce93ef3ee7495_1709022473.png",
+        "text": "زیبایی و سلامت"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/f64a3adf6e327bf1b85ce43449740d974eaaf037_1709022480.png",
+        "text": "ورزش و سفر"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/5421d413c4f0a943cdc1cca473eb15536b13c98f_1709022487.png",
+        "text": "ورزش و سفر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/5421d413c4f0a943cdc1cca473eb15536b13c98f_1709022487.png",
+        "text": "ابزار آلات و تجهیزات"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/ac63c44ab551dc24421aea53b92686a2f72906ff_1709022493.png",
+        "text": "خودرو و موتورسیکلت"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/c48ab9fc81e7732a617f90eca608b943d4616ff7_1709022499.png",
+        "text": "محصولات بومی و محلی"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/a25821d184d092f05383e6039738d2cad25bcbb7_1709022511.png",
+        "text": "کارت هدیه"
+      }
+    ]
   ],
   "adTwo": [
     {
@@ -371,6 +368,65 @@
       "id": 14,
       "img": "https://dkstatics-public.digikala.com/digikala-products/5502951.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
       "text": "آچار"
+    }
+  ],
+  "brand": [
+    {
+      "id": 1,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/2c36ceb629598fa31b9b321fcd4e47773bd93ef7_1649498016.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 2,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/7d615272ba7fc5dd708195ae858e2971de86a06f_1649498033.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 3,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/6091.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 4,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/1800.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 5,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/af664f0bcf9bc412b741c618e6e52fc2d090198f_1619269008.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 6,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/7857.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 7,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/100012423.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 8,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/3280.png?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 9,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/e2d33dcdd991ae450ef90a6a3510e1cebe1056bb_1684054184.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    },
+    {
+      "id": 10,
+      "img": "https://dkstatics-public.digikala.com/digikala-brands/3960.jpg?x-oss-process=image/resize,m_lfit,h_160,w_160/quality,q_80"
+    }
+  ],
+  "adThree": [
+    {
+      "id": 3,
+      "img": [
+        "https://dkstatics-public.digikala.com/digikala-adservice-banners/b86edcb0184efca8d35513819555ba9e66d306ec_1709731202.jpg?x-oss-process=image/quality,q_95",
+        "https://dkstatics-public.digikala.com/digikala-adservice-banners/3477064a66520088ee56262fe447240151f0f7cd_1709982125.gif?x-oss-process=image"
+      ]
+    }
+  ],
+  "adFour": [
+    {
+      "id": 4,
+      "img": [
+        "https://dkstatics-public.digikala.com/digikala-adservice-banners/39daac03f9598eca6788236b3f612b144bdbd0d3_1709730780.jpg?x-oss-process=image/quality,q_95"
+      ]
     }
   ]
 }
