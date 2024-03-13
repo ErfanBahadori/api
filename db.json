@@ -435,6 +435,29 @@
       ]
     }
   ],
+  "club": [
+    {
+      "id": 1,
+      "img": "https://www.digikala.com/statics/img/svg/club/digiclub-logo-white.svg"
+    },
+    {
+      "id": 2,
+      "images": [
+        {
+          "id": 1,
+          "img": "https://www.digikala.com/statics/img/png/digiclub/awards.webp"
+        },
+        {
+          "id": 2,
+          "img": "https://www.digikala.com/statics/img/png/digiclub/missions.webp"
+        },
+        {
+          "id": 3,
+          "img": "https://www.digikala.com/statics/img/png/digiclub/wheel-spinner.webp"
+        }
+      ]
+    }
+  ],
   "adFour": [
     {
       "id": 4,
