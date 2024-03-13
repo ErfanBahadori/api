@@ -262,8 +262,8 @@
     [
       {
         "id": 1,
-        "img": "https://dkstatics-public.digikala.com/digikala-categories/5421d413c4f0a943cdc1cca473eb15536b13c98f_1709022487.png",
-        "text": "ورزش و سفر"
+        "img": "https://dkstatics-public.digikala.com/digikala-categories/3e3ec550569f974bc7e9d78c30b48612e5b1c606_1709022406.png",
+        "text": "خانه و آشپزخانه"
       },
       {
         "id": 2,
@@ -299,76 +299,90 @@
     }
   ],
   "suggest": [
-    {
-      "id": 1,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1656423336.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "گوشی موبایل"
-    },
-    {
-      "id": 2,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/653b0ef06b73568fafa552cc3d8fec6b660bd66c_1690715992.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "ساعت هوشمند"
-    },
-    {
-      "id": 3,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/d2a884c18c11cea0d42de5e96810f2b7ac64516b_1653987244.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "اسپیکر (بلندگو)"
-    },
-    {
-      "id": 4,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/981d87dc9d114a51d13997f18a9ca0575fcd2790_1708963010.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "جوراب مردانه"
-    },
-    {
-      "id": 5,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/4b1b7729a338572505cacf9f1a7fc4535c23d551_1701036136.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "کمد لباس و ارگانایزر"
-    },
-    {
-      "id": 6,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/d2e1434a3846b06a6296e7ad430dd84ad1a3fc65_1641899344.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "خودکار و روان نویس"
-    },
-    {
-      "id": 7,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/4f4a77efe1a48f7728cfc1f6e26f01eb05dff930_1692783971.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "پرده"
-    },
-    {
-      "id": 8,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/19e5fcf7184fb562ce80d3b4fc846037ebff45b5_1692097050.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "هدفون، هدست و هندزفری"
-    },
-    {
-      "id": 9,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/b2c0eb53f0eeacdefb8771155bf5e4887222a654_1688388473.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "لپ تاپ و الترابوک"
-    },
-    {
-      "id": 10,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/e8db003acadad2a677e7bef5c7b73601b3e53d68_1674206472.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "کنسول خانگی"
-    },
-    {
-      "id": 11,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/354759910f958d03c6d39800395b96088e52b9a0_1678081806.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "تجهیزات جانبی سفر و کمپینگ"
-    },
-    {
-      "id": 12,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/8ee53a1c7c90bd688cd900dbde49d152eb1aea35_1678523815.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "سرخ کن"
-    },
-    {
-      "id": 13,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/e10938a8268399a90fdae8e245015cf765753be4_1613486389.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "لامپ و چراغ"
-    },
-    {
-      "id": 14,
-      "img": "https://dkstatics-public.digikala.com/digikala-products/5502951.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
-      "text": "آچار"
-    }
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/ec9a962187e1f82cc47e7a148ef99ec1c6fd024d_1656423336.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "گوشی موبایل"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/653b0ef06b73568fafa552cc3d8fec6b660bd66c_1690715992.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "ساعت هوشمند"
+      }
+    ],
+    [
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/d2a884c18c11cea0d42de5e96810f2b7ac64516b_1653987244.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "اسپیکر (بلندگو)"
+      },
+      {
+        "id": 4,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/981d87dc9d114a51d13997f18a9ca0575fcd2790_1708963010.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "جوراب مردانه"
+      }
+    ],
+    [
+      {
+        "id": 5,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4b1b7729a338572505cacf9f1a7fc4535c23d551_1701036136.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "کمد لباس و ارگانایزر"
+      },
+      {
+        "id": 6,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/d2e1434a3846b06a6296e7ad430dd84ad1a3fc65_1641899344.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "خودکار و روان نویس"
+      }
+    ],
+    [
+      {
+        "id": 7,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4f4a77efe1a48f7728cfc1f6e26f01eb05dff930_1692783971.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "پرده"
+      },
+      {
+        "id": 8,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/19e5fcf7184fb562ce80d3b4fc846037ebff45b5_1692097050.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "هدفون، هدست و هندزفری"
+      }
+    ],
+    [
+      {
+        "id": 9,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/b2c0eb53f0eeacdefb8771155bf5e4887222a654_1688388473.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "لپ تاپ و الترابوک"
+      },
+      {
+        "id": 10,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/e8db003acadad2a677e7bef5c7b73601b3e53d68_1674206472.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "کنسول خانگی"
+      }
+    ],
+    [
+      {
+        "id": 11,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/354759910f958d03c6d39800395b96088e52b9a0_1678081806.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "تجهیزات جانبی سفر و کمپینگ"
+      },
+      {
+        "id": 12,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/8ee53a1c7c90bd688cd900dbde49d152eb1aea35_1678523815.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "سرخ کن"
+      }
+    ],
+    [
+      {
+        "id": 13,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/e10938a8268399a90fdae8e245015cf765753be4_1613486389.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "لامپ و چراغ"
+      },
+      {
+        "id": 14,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/5502951.jpg?x-oss-process=image/resize,m_lfit,h_350,w_350/quality,q_60",
+        "text": "آچار"
+      }
+    ]
   ],
   "brand": [
     {
