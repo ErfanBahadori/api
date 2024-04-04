@@ -533,5 +533,107 @@
         "https://dkstatics-public.digikala.com/digikala-adservice-banners/39daac03f9598eca6788236b3f612b144bdbd0d3_1709730780.jpg?x-oss-process=image/quality,q_95"
       ]
     }
+  ],
+  "topSale": [
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4879003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۱",
+        "text": "شامپو پرژک مدل سیر حجم 450 میلی لیتر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/f3543538ac28e51f51a915bf50e1b3d64937feac_1706091844.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۲",
+        "text": "روغن سرخ کردنی لایت طبیعت - 900 گرم"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4bc080993af2f26c76e94fe7907ddef881f2b9c6_1609743727.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۳",
+        "text": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/9437312ce7c2cdf0d95633ff1688e98414b94c03_1652782557.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۴",
+        "text": "روغن سرخ کردنی غنچه - 1.5 لیتر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/15f73330a521a53118766d8945eaf17f2cb17bf7_1627818065.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۵",
+        "text": "پوشک کودک مولفیکس سایز 6 بسته 24 عددی"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/d3c8880bb8ad668526e1df266957c1d3c9c844bb_1681901721.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۶",
+        "text": "آب آشامیدنی نستله سری پیور لایف - 1.5 لیتر بسته 6 عددی"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4879003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۱",
+        "text": "شامپو پرژک مدل سیر حجم 450 میلی لیتر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/f3543538ac28e51f51a915bf50e1b3d64937feac_1706091844.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۲",
+        "text": "روغن سرخ کردنی لایت طبیعت - 900 گرم"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4bc080993af2f26c76e94fe7907ddef881f2b9c6_1609743727.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۳",
+        "text": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4879003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۱",
+        "text": "شامپو پرژک مدل سیر حجم 450 میلی لیتر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/f3543538ac28e51f51a915bf50e1b3d64937feac_1706091844.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۲",
+        "text": "روغن سرخ کردنی لایت طبیعت - 900 گرم"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4bc080993af2f26c76e94fe7907ddef881f2b9c6_1609743727.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۳",
+        "text": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
+      }
+    ],
+    [
+      {
+        "id": 1,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4879003.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۱",
+        "text": "شامپو پرژک مدل سیر حجم 450 میلی لیتر"
+      },
+      {
+        "id": 2,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/f3543538ac28e51f51a915bf50e1b3d64937feac_1706091844.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۲",
+        "text": "روغن سرخ کردنی لایت طبیعت - 900 گرم"
+      },
+      {
+        "id": 3,
+        "img": "https://dkstatics-public.digikala.com/digikala-products/4bc080993af2f26c76e94fe7907ddef881f2b9c6_1609743727.jpg?x-oss-process=image/resize,m_lfit,h_300,w_300/quality,q_80",
+        "num": "۳",
+        "text": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
+      }
+    ]
   ]
 }
