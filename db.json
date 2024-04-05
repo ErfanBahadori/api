@@ -635,5 +635,27 @@
         "text": "آب معدنی میوا - 1.5 لیتر بسته 6 عددی"
       }
     ]
+  ],
+  "read": [
+    {
+      "id": 1,
+      "img": "https://www.digikala.com/mag/wp-content/uploads/2024/04/1-2.png",
+      "text": "راهنمای خرید بهترین ساعت‌های هوشمند گلوریمی؛ از گران‌ترین تا ارزان‌ترین"
+    },
+    {
+      "id": 2,
+      "img": "https://www.digikala.com/mag/wp-content/uploads/2024/03/01.06-9.jpg",
+      "text": "۳ قابلیت عجیب گوشی ریلمی GT3"
+    },
+    {
+      "id": 3,
+      "img": "https://www.digikala.com/mag/wp-content/uploads/2024/03/01.06-35.jpg",
+      "text": "بررسی هدفون QCY C2؛ از بهترین‌های دور گردنی"
+    },
+    {
+      "id": 4,
+      "img": "https://www.digikala.com/mag/wp-content/uploads/2024/03/01.06-8.jpg",
+      "text": "بررسی لپ‌تاپ ایسوس Strix G16؛ لپ‌تاپی که کم نمی‌آورد!"
+    }
   ]
 }
