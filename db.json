@@ -657,5 +657,32 @@
       "img": "https://www.digikala.com/mag/wp-content/uploads/2024/03/01.06-8.jpg",
       "text": "بررسی لپ‌تاپ ایسوس Strix G16؛ لپ‌تاپی که کم نمی‌آورد!"
     }
+  ],
+  "footer": [
+    {
+      "id": 1,
+      "img": "https://www.digikala.com/statics/img/svg/digi.svg"
+    },
+    {
+      "id": 2,
+      "img": "https://www.digikala.com/statics/img/png/footerlogo2.webp"
+    },
+    {
+      "id": 3,
+      "img": [
+        {
+          "id": 1,
+          "img": "https://www.digikala.com/statics/img/png/rezi.webp"
+        },
+        {
+          "id": 2,
+          "img": "https://www.digikala.com/statics/img/png/kasbokar.webp"
+        },
+        {
+          "id": 3,
+          "img": "https://media.mehrnews.com/d/2022/09/11/0/4277508.png?ts=1662907680964"
+        }
+      ]
+    }
   ]
 }
